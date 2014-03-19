@@ -1,5 +1,7 @@
 ## GitLab: self hosted Git management software
 
+My special fix.
+
 ![logo](https://raw.github.com/gitlabhq/gitlabhq/master/public/gitlab_logo.png)
 
 ![animated-screenshots](https://gist.github.com/fnkr/2f9badd56bfe0ed04ee7/raw/4f48806fbae97f556c2f78d8c2d299c04500cb0d/compiled.gif)
